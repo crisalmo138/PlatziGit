@@ -1,6 +1,2 @@
-Mi nombre es Christian Almeida
-Tengo 30 años
-Soy Ingeniero
-Trabajo como Director
-Mi mejor trabajo ha sido Aprender JAva
-Cabecera
+Archivo de Prueba 
+Version Git Hub
